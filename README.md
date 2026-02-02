@@ -1,4 +1,4 @@
-# PyCharm Misc Project
+# RAG chatbot with Ollama LLM
 
 This repository is a personal workspace that contains:
 - `ChatBot/ollama_pdf_rag/`: a local PDF RAG app using Ollama, LangChain, and Streamlit.
