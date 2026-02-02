@@ -18,9 +18,3 @@ This repository is a personal workspace that contains:
    ```
 
 For full documentation and usage details, see `ChatBot/ollama_pdf_rag/README.md`.
-
-## Project hygiene
-
-Generated files, local environments, and editor settings are excluded via `.gitignore`.
-# PyCharm-Misc-Project
-# PyCharm-Misc-Project
